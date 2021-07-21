@@ -17,7 +17,6 @@ function App() {
             count is: {count}
           </button>
         </p>
-
         <p>
           <a
             className="App-link"
