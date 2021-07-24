@@ -1,6 +1,6 @@
 # Vite/React Template
 
-Starter template for React with Vite bundler. Added Eslint config and prettier for formatting.
+Starter template for React with Vite bundler. Added typescript support, Eslint config and prettier for formatting.
 
 ![Template](https://i.imgur.com/AbtMW4R.png)
 

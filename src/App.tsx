@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-header__text">
-          Vite + React + Eslint + Prettier template!
+          Vite + React + Typescript + Eslint + Prettier template!
         </p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
